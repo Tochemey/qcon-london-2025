@@ -43,7 +43,9 @@ Holly Cummins(Red Hat) and Trisha Gee (Gradle) outlined the following:
         - Fun
         - Joy
 
-### SpareBank 1 and SINTEF in Norway
+### Team work and pair programming
+
+SpareBank 1 and SINTEF in Norway shared their experience:
 
 - Avoid Personal Focus, Increase Team work:
   They observed during their research that developers and managers are mostly concerned about the following:
