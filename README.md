@@ -118,7 +118,7 @@ To meet huge traffic spikes demand during major events in the UK, BBC focuses he
     - Serverless architecture using AWS Lambda to easily scale during spikes
     - Pre-computation whenever possible. They compute results ahead of time and cache them
 - Resilience
-    - Use the hourglass architecture standardizing the following key mechanisms:
+    - Use the _**hourglass architecture**_ standardizing the following key mechanisms:
         - Caching
         - Circuit breakers
         - Feature Flags
