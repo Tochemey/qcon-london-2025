@@ -141,33 +141,20 @@ Peter Hunter and Elena Stojmilova from Open GI shared their experience as archit
 
 ## Interesting Quotes
 
-```text
-Any organisation that designs a system will produce a design whose structure is a copy of the organisation's communication structure
-```
 
-```text
-Pleasure in the job puts perfection in the work
-```
+`Any organisation that designs a system will produce a design whose structure is a copy of the organisation's communication structure`
 
-```text
-Scaling is not about adding more servers. It is about designing for failure before it happens
-```
+`Pleasure in the job puts perfection in the work`
 
-```text
-Good performance is like a strong dial tone - free from lag
-```
+`Scaling is not about adding more servers. It is about designing for failure before it happens`
 
-```text
-When designing a system, both functional and non-functional requirements must be considered. The same applies when hiring people
-```
+`Good performance is like a strong dial tone - free from lag`
+
+`When designing a system, both functional and non-functional requirements must be considered. The same applies when hiring people`
 Lesson: It is easier to teach technical skills than to change someone personality.
 
-```text
-It is very hard to make something simple and hide all the complexity. It is much easier to expose all the complexity outside
-```
+`It is very hard to make something simple and hide all the complexity. It is much easier to expose all the complexity outside`
 Lesson: Building plaftorms are very complex, however we should have a simple and intuitive interface for the end user which is not an easy task.
 
-```text
-Consistency is a spectrum. It is not black and white
-```
+`Consistency is a spectrum. It is not black and white`
 Lesson: Learn to adjust the consistency level based upon your use case.
