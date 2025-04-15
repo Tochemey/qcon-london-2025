@@ -60,7 +60,7 @@ SpareBank 1 and SINTEF in Norway shared their experience:
 ### AI Coding State of Play
 From Birgitta Bockeler(Thoughtworks) research
 - AI is here to stay, developers should not ignore it. AI can tremendously enhance productivity.
-    - Are you and enthusiast?:
+    - Are you an enthusiast?:
         - Don't say: *Why are you so slow when you have AI?*
         - Do Praise experimentation
     - Are you a skeptic?:
